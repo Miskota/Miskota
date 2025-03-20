@@ -10,7 +10,7 @@ I'm a Computer Engineering student at Óbuda University. Currently learning Mach
 ### 🎯 Hobbies & Interests:
 - 🖥️ PC Building
 - 🎮 Gaming (RPGs & FPS)  
-- 🔫 Sportshooting 
+- 🔫 Shooting Sports 
 - 🎬 Movies 
 - 🎲 Dungeons & Dragons
 
