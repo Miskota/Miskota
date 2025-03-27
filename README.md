@@ -18,8 +18,6 @@
 > I can turn things off and on. (A fix 99% of the time)<br>
 > Also, if something's wrong... It's probably the DNS 🌐
 
-> [!TIP]
-> To avoid bugs, use Dark Mode 🐞
 
 <br>
 
@@ -32,8 +30,9 @@
 
 <br>
 
-> [!IMPORTANT]
-> Ever play Gwent? 🃏⚔️
+> [!TIP]
+> To avoid bugs, use Dark Mode 🐞
+
 
 <br>
 
