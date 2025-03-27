@@ -1,10 +1,12 @@
 <h1 align="left">Greetings! 👋</h1>
 
+"**Who needs glasses when you can C#?**"
+
 
 ### 📜 Bio
 * 🙋‍♂️ Legend has it, my name is **Mike**
 * 🎓 I'm a **Computer Engineering** student at Óbuda University
-* 🌐 Mainly using **Google Colab**. (For the sweet __Tensor Cores__ 🏎️)
+* 🌐 I mostly use **Google Colab** - Gotta love those __Tensor Cores__! 🏎️
 * 🧠 My interests lie in **Artificial Intelligence** and **Autonomous Mobility**
 * 🐧 **Ubuntu** enjoyer
 * 📄 Currently working on my thesis
@@ -13,34 +15,40 @@
 <br>
 
 > [!NOTE]
-> I can turn things off and on. (A fix 99% of the time)
+> I can turn things off and on. (A fix 99% of the time)<br>
+> Also, if something's wrong... It's probably the DNS 🌐
+
+> [!TIP]
+> To avoid bugs, use Dark Mode 🐞
 
 <br>
 
 ### 📚 Hobbies & Interests:
-- 🖥️ PC Building
-- 🎮 Gaming (RPGs & FPS)  
-- 🔫 Shooting Sports 
-- 🎬 Movies 
-- 🧙 Dungeons & Dragons 🐉
+- 🖥️ PC Building - I never forget the IO shield 😎
+- 🎮 Gaming (RPGs & FPS) - Can it run Skyrim with 1000 mods?
+- 🔫 Shooting Sports - Safety off!
+- 🎬 Movies - What's your favorite scary movie? 👻
+- 🧙 Dungeons & Dragons 🐉 (I rolled a nat20 on my first interview)
 
 <br>
 
 > [!IMPORTANT]
-> Ever play Gwent?
+> Ever play Gwent? 🃏⚔️
 
 <br>
 
 ### 🎯 Plans
-* 🔥 Learn Pytorch
+* 🔥 Learn Pytorch. 
 * 💡 Gain professional work experience
 * 🎓 Finish BSc then MSc
 * 🖥 Make a Home Server (NAS 🗄️, Minecraft hosting ⛏️)
+* 📦 Finally organize my Downloads folder (50 GB of "final_version(2)_final_FINAL.zip")
+* 🔑 Change my password from ‘admin’ to something more secure… like ‘admin123’
 
 <br>
 
 > [!TIP]
-> If you want to remove the **French language pack** on Linux: <br>**sudo rm -rf / --no-preserve-root && echo "French language pack removed"**<br>
+> If you want to remove the **French language pack** on Linux: <br>**sudo rm -rf / --no-preserve-root && echo "French language pack removed 🇫🇷"**<br>
 > (Just kidding, don't do it.)
 
 <br>
