@@ -1,21 +1,49 @@
-<h1 align="center">Greetings! 👋</h1>
+<h1 align="left">Greetings! 👋</h1>
 
-<br>
-<h1>📜 Bio </h1>
-I'm a Computer Engineering student at Óbuda University. Currently learning Machine and Deep Learning 🧠
-<h1></h1>
+
+### 📜 Bio
+* 🙋‍♂️ Legend has it, my name is **Mike**
+* 🎓 I'm a **Computer Engineering** student at Óbuda University
+* 🌐 Mainly using **Google Colab**. (For the sweet __Tensor Cores__ 🏎️)
+* 🧠 My interests lie in **Artificial Intelligence** and **Autonomous Mobility**
+* 🐧 **Ubuntu** enjoyer
+* 📄 Currently working on my thesis
+* 💻 **ThinkPad** enthusiast
   
 <br>
 
-### 🎯 Hobbies & Interests:
+> [!NOTE]
+> I can turn things off and on. (A fix 99% of the time)
+
+<br>
+
+### 📚 Hobbies & Interests:
 - 🖥️ PC Building
 - 🎮 Gaming (RPGs & FPS)  
 - 🔫 Shooting Sports 
 - 🎬 Movies 
-- 🎲 Dungeons & Dragons
+- 🧙 Dungeons & Dragons 🐉
 
 <br>
 
+> [!IMPORTANT]
+> Ever play Gwent?
+
+<br>
+
+### 🎯 Plans
+* 🔥 Learn Pytorch
+* 💡 Gain professional work experience
+* 🎓 Finish BSc then MSc
+* 🖥 Make a Home Server (NAS 🗄️, Minecraft hosting ⛏️)
+
+<br>
+
+> [!TIP]
+> If you want to remove the **French language pack** on Linux: <br>**sudo rm -rf / --no-preserve-root && echo "French language pack removed"**<br>
+> (Just kidding, don't do it.)
+
+<br>
 
 <h1></h1>
 <h3 align="left">Connect with me:</h3>
